@@ -1,0 +1,12 @@
+{
+   "deploy":{
+      "container":"<string>",
+      "war" : [
+         {
+            "file":"<string>",
+            "context":"/<string>",
+            "checkMe":"/<string>"
+         }
+      ]
+   }
+}
